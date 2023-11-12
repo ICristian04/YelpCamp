@@ -57,7 +57,7 @@ Here are the main technologies, frameworks, and libraries used in this project:
     node app.js
 
 ## Preview
-![YelpCamp preview](https://github.com/ICristian04/YelpCamp/assets/102360722/727a8572-ccc4-464a-b543-6f427939751e)
+![YelpCamp preview]([https://github.com/ICristian04/YelpCamp/assets/102360722/727a8572-ccc4-464a-b543-6f427939751e](https://res.cloudinary.com/dyae0xqpx/image/upload/v1699809389/YelpCamp/yelpcamp_rvwev6.png)https://res.cloudinary.com/dyae0xqpx/image/upload/v1699809389/YelpCamp/yelpcamp_rvwev6.png)
 
 
 ---
